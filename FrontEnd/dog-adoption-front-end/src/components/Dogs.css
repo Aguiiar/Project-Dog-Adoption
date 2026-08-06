@@ -1,0 +1,109 @@
+
+
+
+
+.boxDog{
+
+}
+
+.card{
+  width: 18rem;
+  padding: 10px;
+  margin-bottom: 50px;
+  background: linear-gradient(
+  135deg,
+  #27bde2d7,
+  #33b3d3
+  
+);
+
+
+
+}
+
+
+.borderAroundDogImg{
+     border:solid white 1px;
+      border-radius: 10%;
+  
+}
+
+
+
+
+.card img{
+    height: 200px;
+    border-radius: 10%;
+
+  
+ 
+   
+    position: relative;
+}
+
+
+
+
+.dogName{
+
+    color: blue;
+    padding: 5px;
+    position: absolute;
+    top: 230px;
+    right: 120px;
+    background: linear-gradient(
+  135deg,
+  #27bde2d7,
+  #33b3d3
+);
+border-top-left-radius: 18px;
+border-top-right-radius: 28px;
+}
+
+.dogText{
+
+ background:#1883ad1e;
+   border-radius: 10px;
+ border-top: 5px solid white;
+      border-bottom: 5px solid white;
+}
+
+.dogTextadoptionTop{
+    rotate: calc(5deg);
+    border-radius: 20px;
+    font-size: 15px;
+    padding: 3px;
+  
+
+}
+
+
+.dogTextadoptionBottom{
+    rotate: calc(-5deg);
+     border-radius: 20px;
+    font-size: 15px;
+    padding: 3px;
+}
+
+
+
+.inputSearch{
+    border: solid rgb(235, 231, 231) 2px;
+    height: 40px;
+    border-radius: 5px;
+    outline: none;
+}
+
+
+
+.inputSearch:focus{
+ 
+    outline: none;
+}
+
+
+
+
+.dsdsds{
+    border:solid red 2px;
+}

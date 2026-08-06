@@ -1,0 +1,5 @@
+.img-form{
+    border-radius: 7px;
+    object-fit: cover;
+    min-height: 640px
+}
